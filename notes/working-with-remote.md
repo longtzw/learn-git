@@ -5,7 +5,7 @@
 If you’ve cloned your repository, you should at least see **origin** that is 
 the default name Git gives to the server you cloned from.
 
-You can also specify -v, which shows you the URLs that Git has stored for the
+You can also specify -v, which shows you the URLs that Git has stored for the 
 shortname to be used when reading and writing to that remote.
 
 `$ git remote -v` 
